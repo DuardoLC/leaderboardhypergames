@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "10/11/2026, 20:37:26",
+ "atualizadoEm": "10/11/2026, 20:44:17",
  "fem": {
   "atletas": [
    "ISA",
@@ -13,76 +13,8 @@
    "LETICIA",
    "CASSI"
   ],
-  "eventos": {
-   "ila": {
-    "ISA": {
-     "v": "50"
-    },
-    "MONICA": {
-     "v": "45"
-    },
-    "CAROL": {
-     "v": "40"
-    },
-    "JUH": {
-     "v": "40"
-    },
-    "POLI": {
-     "v": "35"
-    },
-    "GABI": {
-     "v": "40"
-    },
-    "SOL": {
-     "v": "30"
-    },
-    "LETICIA": {
-     "v": "30"
-    },
-    "CASSI": {
-     "v": "30"
-    },
-    "FERNANDA": {
-     "v": "35"
-    }
-   },
-   "ilb": {
-    "ISA": {
-     "v": "1000"
-    },
-    "MONICA": {
-     "v": "950"
-    },
-    "CAROL": {
-     "v": "900"
-    },
-    "JUH": {
-     "v": "950"
-    },
-    "POLI": {
-     "v": "1100"
-    },
-    "GABI": {
-     "v": "750"
-    },
-    "SOL": {
-     "v": "600"
-    },
-    "LETICIA": {
-     "v": "670"
-    },
-    "CASSI": {
-     "v": "500"
-    },
-    "FERNANDA": {
-     "v": "850"
-    }
-   },
-   "uca": {},
-   "ucb": {},
-   "sur": {}
-  },
-  "geral": true,
+  "eventos": {},
+  "geral": false,
   "desempate": {}
  },
  "masc": {
@@ -97,70 +29,8 @@
    "LEANDRO",
    "VITOR"
   ],
-  "eventos": {
-   "ila": {
-    "GUSTAVO": {
-     "v": "70"
-    },
-    "ADRIANO": {
-     "v": "70"
-    },
-    "DAVID": {
-     "v": "60"
-    },
-    "GIOVANI": {
-     "v": "55"
-    },
-    "BENONE": {
-     "v": "80"
-    },
-    "RAFAEL": {
-     "v": "90"
-    },
-    "WILLIAM": {
-     "v": "70"
-    },
-    "LEANDRO": {
-     "v": "50"
-    },
-    "VITOR": {
-     "v": "70"
-    }
-   },
-   "ilb": {
-    "GUSTAVO": {
-     "v": "1500"
-    },
-    "ADRIANO": {
-     "v": "1800"
-    },
-    "DAVID": {
-     "v": "1500"
-    },
-    "GIOVANI": {
-     "v": "1600"
-    },
-    "BENONE": {
-     "v": "1750"
-    },
-    "RAFAEL": {
-     "v": "1850"
-    },
-    "WILLIAM": {
-     "v": "2000"
-    },
-    "LEANDRO": {
-     "v": "1400"
-    },
-    "VITOR": {
-     "v": "1850"
-    }
-   },
-   "uca": {},
-   "ucb": {},
-   "sur": {}
-  },
-  "geral": true,
+  "eventos": {},
+  "geral": false,
   "desempate": {}
  },
  "baterias": [

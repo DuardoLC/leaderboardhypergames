@@ -1,0 +1,28 @@
+{
+ "atualizadoEm": "10/11/2026, 12:38:00",
+ "fem": {
+  "atletas": [
+   "ISA",
+   "MONICA",
+   "CAROL",
+   "JUH",
+   "POLI",
+   "GABI",
+   "SOL",
+   "LETICIA",
+   "CASSI",
+   "FER RAMIN"
+  ],
+  "eventos": {},
+  "geral": false,
+  "desempate": {}
+ },
+ "masc": {
+  "atletas": [],
+  "eventos": {},
+  "geral": false,
+  "desempate": {}
+ },
+ "baterias": [],
+ "imagens": {}
+}

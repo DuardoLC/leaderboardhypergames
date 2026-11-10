@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "10/11/2026, 12:38:00",
+ "atualizadoEm": "10/11/2026, 12:46:22",
  "fem": {
   "atletas": [
    "ISA",
@@ -13,7 +13,72 @@
    "CASSI",
    "FER RAMIN"
   ],
-  "eventos": {},
+  "eventos": {
+   "ila": {
+    "ISA": {
+     "v": "65"
+    },
+    "MONICA": {
+     "v": "65"
+    },
+    "CAROL": {
+     "v": "55"
+    },
+    "JUH": {
+     "v": "35"
+    },
+    "POLI": {
+     "v": "45"
+    },
+    "GABI": {
+     "v": "45"
+    },
+    "SOL": {
+     "v": "45"
+    },
+    "LETICIA": {
+     "v": "55"
+    },
+    "CASSI": {
+     "v": "55"
+    },
+    "FER RAMIN": {
+     "v": "35"
+    }
+   },
+   "ilb": {
+    "ISA": {
+     "v": "1523"
+    },
+    "MONICA": {
+     "v": "1550"
+    },
+    "CAROL": {
+     "v": "1523"
+    },
+    "JUH": {
+     "v": "1400"
+    },
+    "POLI": {
+     "v": "1410"
+    },
+    "GABI": {
+     "v": "1400"
+    },
+    "SOL": {
+     "v": "1400"
+    },
+    "LETICIA": {
+     "v": "1600"
+    },
+    "CASSI": {
+     "v": "1400"
+    },
+    "FER RAMIN": {
+     "v": "1500"
+    }
+   }
+  },
   "geral": false,
   "desempate": {}
  },
@@ -23,6 +88,25 @@
   "geral": false,
   "desempate": {}
  },
- "baterias": [],
+ "baterias": [
+  {
+   "hora": "8:00",
+   "nome": "Bateria 1",
+   "atletas": [
+    "ISA",
+    "MONICA",
+    "GABI"
+   ]
+  },
+  {
+   "hora": "8:15",
+   "nome": "Bateria 2",
+   "atletas": [
+    "FER RAMIN",
+    "JUH",
+    "LETICIA"
+   ]
+  }
+ ],
  "imagens": {}
 }

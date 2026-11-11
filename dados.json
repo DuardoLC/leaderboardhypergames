@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "10/11/2026, 20:44:17",
+ "atualizadoEm": "10/11/2026, 22:13:17",
  "fem": {
   "atletas": [
    "ISA",
@@ -81,28 +81,70 @@
    "hora": "10:50 - 11:00",
    "nome": "Bateria 5",
    "atletas": [
-    "(Feminino) 6° - 7° - 8° - 9° - 10°"
+    "6° - 7° - 8° - 9° - 10°"
    ]
   },
   {
    "hora": "11:05 - 11:15",
    "nome": "Bateria 6",
    "atletas": [
-    "(Feminino) 5° - 4° - 3° - 2° - 1°"
+    "5° - 4° - 3° - 2° - 1°"
    ]
   },
   {
    "hora": "11:20 - 11:30",
    "nome": "Bateria 7",
    "atletas": [
-    "(Masculino) 6° - 7° - 8° - 9° - 10°"
+    "6° - 7° - 8° - 9° - 10°"
    ]
   },
   {
    "hora": "11:35 - 11:45",
    "nome": "Bateria 8",
    "atletas": [
-    "(Masculino) 5° - 4° - 3° - 2° - 1°"
+    "5° - 4° - 3° - 2° - 1°"
+   ]
+  },
+  {
+   "hora": "13:00 - 13:10",
+   "nome": "Bateria 9",
+   "atletas": [
+    "A DEFINIR"
+   ]
+  },
+  {
+   "hora": "13:15 - 13:25",
+   "nome": "Bateria 10",
+   "atletas": [
+    "A DEFINIR"
+   ]
+  },
+  {
+   "hora": "13:30 - 13:40",
+   "nome": "Bateria 11",
+   "atletas": [
+    "A DEFINIR"
+   ]
+  },
+  {
+   "hora": "13:35 - 13:55",
+   "nome": "Bateria 12",
+   "atletas": [
+    "A DEFINIR"
+   ]
+  },
+  {
+   "hora": "14:10 - 14:35",
+   "nome": "Bateria 13",
+   "atletas": [
+    "6 ATLETAS MATA-MATA"
+   ]
+  },
+  {
+   "hora": "14:40 - 15:05",
+   "nome": "Bateria 14",
+   "atletas": [
+    "6 ATLETAS MATA-MATA"
    ]
   }
  ],

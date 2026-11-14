@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "14/11/2026, 10:57:54",
+ "atualizadoEm": "14/11/2026, 11:17:24",
  "fem": {
   "atletas": [
    "ISA",
@@ -125,6 +125,9 @@
     },
     "VITOR": {
      "v": "60"
+    },
+    "BENONI": {
+     "v": "90"
     }
    },
    "ilb": {
@@ -151,6 +154,9 @@
     },
     "VITOR": {
      "v": "1360"
+    },
+    "BENONI": {
+     "v": "2240"
     }
    },
    "uca": {},
@@ -159,7 +165,8 @@
   },
   "geral": true,
   "desempate": {
-   "RAFAEL": "1"
+   "RAFAEL": "1",
+   "BENONI": "2"
   }
  },
  "baterias": [

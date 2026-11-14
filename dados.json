@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "10/11/2026, 22:54:53",
+ "atualizadoEm": "14/11/2026, 10:57:54",
  "fem": {
   "atletas": [
    "ISA",
@@ -13,9 +13,80 @@
    "LETICIA",
    "CASSI"
   ],
-  "eventos": {},
-  "geral": false,
-  "desempate": {}
+  "eventos": {
+   "ila": {
+    "ISA": {
+     "v": "65"
+    },
+    "MONICA": {
+     "v": "75"
+    },
+    "CAROL": {
+     "v": "55"
+    },
+    "JUH": {
+     "v": "45"
+    },
+    "POLI": {
+     "v": "45"
+    },
+    "GABI": {
+     "v": "45"
+    },
+    "SOL": {
+     "v": "45"
+    },
+    "LETICIA": {
+     "v": "45"
+    },
+    "CASSI": {
+     "v": "45"
+    },
+    "FERNANDA": {
+     "v": "35"
+    }
+   },
+   "ilb": {
+    "ISA": {
+     "v": "1675"
+    },
+    "MONICA": {
+     "v": "1280"
+    },
+    "CAROL": {
+     "v": "1400"
+    },
+    "JUH": {
+     "v": "885"
+    },
+    "POLI": {
+     "v": "1040"
+    },
+    "GABI": {
+     "v": "925"
+    },
+    "SOL": {
+     "v": "1010"
+    },
+    "LETICIA": {
+     "v": "1570"
+    },
+    "CASSI": {
+     "v": "1020"
+    },
+    "FERNANDA": {
+     "v": "730"
+    }
+   },
+   "uca": {},
+   "ucb": {},
+   "sur": {}
+  },
+  "geral": true,
+  "desempate": {
+   "ISA": "1",
+   "MONICA": "1"
+  }
  },
  "masc": {
   "atletas": [
@@ -23,86 +94,101 @@
    "ADRIANO",
    "DAVID",
    "GIOVANI",
-   "BENONE",
+   "BENONI",
    "RAFAEL",
    "WILLIAM",
    "LEANDRO",
    "VITOR"
   ],
-  "eventos": {},
-  "geral": false,
-  "desempate": {}
+  "eventos": {
+   "ila": {
+    "GUSTAVO": {
+     "v": "70"
+    },
+    "ADRIANO": {
+     "v": "70"
+    },
+    "DAVID": {
+     "v": "60"
+    },
+    "GIOVANI": {
+     "v": "70"
+    },
+    "RAFAEL": {
+     "v": "90"
+    },
+    "WILLIAM": {
+     "v": "80"
+    },
+    "LEANDRO": {
+     "v": "70"
+    },
+    "VITOR": {
+     "v": "60"
+    }
+   },
+   "ilb": {
+    "GUSTAVO": {
+     "v": "600"
+    },
+    "ADRIANO": {
+     "v": "1740"
+    },
+    "DAVID": {
+     "v": "1830"
+    },
+    "GIOVANI": {
+     "v": "2180"
+    },
+    "RAFAEL": {
+     "v": "2180"
+    },
+    "WILLIAM": {
+     "v": "2230"
+    },
+    "LEANDRO": {
+     "v": "1510"
+    },
+    "VITOR": {
+     "v": "1360"
+    }
+   },
+   "uca": {},
+   "ucb": {},
+   "sur": {}
+  },
+  "geral": true,
+  "desempate": {
+   "RAFAEL": "1"
+  }
  },
  "baterias": [
-  {
-   "hora": "09:00 - 09:12",
-   "nome": "Bateria 1",
-   "atletas": [
-    "CASSI",
-    "LETÍCIA",
-    "SOL",
-    "GABI",
-    "FERNANDA"
-   ]
-  },
-  {
-   "hora": "09:17 - 09:29",
-   "nome": "Bateria 2",
-   "atletas": [
-    "POLI",
-    "JUH",
-    "CAROL",
-    "MONICA",
-    "ISA"
-   ]
-  },
-  {
-   "hora": "09:39 - 09:51",
-   "nome": "Bateria 3",
-   "atletas": [
-    "VITOR",
-    "LEANDRO",
-    "WILLIAM",
-    "RAFAEL"
-   ]
-  },
-  {
-   "hora": "09:56 - 10:08",
-   "nome": "Bateria 4",
-   "atletas": [
-    "GIOVANI",
-    "BENONI",
-    "DAVID",
-    "ADRIANO",
-    "GUSTAVO"
-   ]
-  },
   {
    "hora": "10:50 - 11:00",
    "nome": "Bateria 5",
    "atletas": [
-    "(FEMININO) 6° - 7° - 8° - 9° - 10°"
+    "(FEMININO) CASSI - SOL - GABI - JUH - FERNANDA"
    ]
   },
   {
    "hora": "11:05 - 11:15",
    "nome": "Bateria 6",
    "atletas": [
-    "(FEMININO) 5° - 4° - 3° - 2° - 1°"
+    "(FEMININO) POLI - CAROL - LETICIA - MONICA - ISA"
    ]
   },
   {
    "hora": "11:20 - 11:30",
    "nome": "Bateria 7",
    "atletas": [
-    "(MASCULINO) 6° - 7° - 8° - 9° - 10°"
+    "(MASCULINO) LEANDRO - GUSTAVO - DAVID - VITOR"
    ]
   },
   {
    "hora": "11:35 - 11:45",
    "nome": "Bateria 8",
    "atletas": [
-    "(MASCULINO) 5° - 4° - 3° - 2° - 1°"
+    "(MASCULINO) ADRIANO - GIOVANI - WILLIAM - RAFAEL - BENONI"
    ]
   },
   {
